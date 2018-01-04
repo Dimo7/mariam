@@ -25,7 +25,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/snapchat-512.png</string>
+						<string>https://pbs.twimg.com/profile_images/948651357199831041/ZfyM3nTe_400x400.jpg</string>
 					</dict>
 					<!-- full-size-image: the large 512x512 icon used by iTunes. -->
 					<dict>
@@ -34,7 +34,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/snapchat-512.png</string>
+						<string>https://pbs.twimg.com/profile_images/948651357199831041/ZfyM3nTe_400x400.jpg</string>
 					</dict>
 				</array>
 				<key>metadata</key>
@@ -46,10 +46,8 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>
-filza iOS11 
-Follow : @iDXMariam <3 
-</string>
+				<string>filza iOS11 
+Follow : @iDXMariam <3</string>
 			</dict>
 		</dict>
 	</array>
